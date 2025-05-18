@@ -96,7 +96,7 @@ YouTube is widely used for learning, but long, unstructured videos and messy tra
 * AllenNLP + SRL model
 * scikit-learn, pandas, matplotlib, nltk, re
 
-See `requirements.txt`[View the Requirements](requirements.txt) for full list.
+See [requirements.txt](requirements.txt) for full list.
 
 ---
 
