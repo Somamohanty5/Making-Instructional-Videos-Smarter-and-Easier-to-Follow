@@ -111,4 +111,4 @@ See [requirements.txt](requirements.txt) for full list.
 
 ## License
 
-This project is released under the MIT License. See `LICENSE` for more info.
+This project is released under the MIT License. See [LICENSE](LICENSE) for more info.
