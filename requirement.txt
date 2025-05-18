@@ -15,3 +15,6 @@ scikit-learn>=1.2.2
 numpy>=1.23.5
 tqdm>=4.65.0
 ffmpeg-python>=0.2.0
+#after running the above run:
+#python -m spacy download en_core_web_sm
+#to get the required spaCy model
