@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+*.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# Python environment files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Model and cache directories
+.cache/
+allennlp_cache/
+whisper_cache/
+torch_cache/
+*.ckpt
+*.pt
+*.bin
+*.onnx
+*.tar.gz
+*.h5
+
+# Audio and media files
+downloads/
+*.mp3
+*.wav
+
+# Generated outputs
+*.csv
+*.png
+
+# VS Code and IDE configs
+.vscode/
+.idea/
+
+# Notebook metadata
+*.nbconvert.ipynb
+
+# Local model files
+models/
+saved_models/
+pretrained/
